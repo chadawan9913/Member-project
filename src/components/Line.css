@@ -1,0 +1,15 @@
+/* styles.css */
+
+.straight-line {
+    border-top: 2px solid black; /* You can adjust color and thickness */
+    width: 35%; /* Adjust the width as needed */
+    rotate: 90deg;
+    margin-left: -100px;
+    margin-top: 660px;
+    position: fixed;
+    
+    
+}
+
+
+  

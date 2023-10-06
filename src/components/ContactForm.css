@@ -1,0 +1,59 @@
+.contact-form {
+    font-size : 30px;
+    justify-content: center;
+    padding: 20px;
+    width: 900px;
+    margin-top: 280px;
+    margin-left: 1000px;
+    
+}
+
+
+
+.firstName {
+    block-size: 50px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+}
+
+.Gender {
+    block-size: 50px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+
+}
+
+.Birth {
+    block-size: 50px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+
+}
+
+.Phone {
+    block-size: 50px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+
+}
+
+.Email {
+    block-size: 50px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+
+}
+
+
+
+.user img {
+   
+    width: 400px;
+    margin-left: -550px;
+    margin-top: -520px;
+    
+    
+}
+
+
+

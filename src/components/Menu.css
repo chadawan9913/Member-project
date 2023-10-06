@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prata:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inder: Inder;
+  --font-comic-neue: "Comic Neue";
+  --font-prata: Prata;
+  --font-prompt: Prompt;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-138xl: 157px;
+  --br-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --color-black: #000;
+  --color-orange-100: #fcb117;
+  --color-orange-200: #fbb017;
+  --color-darkslateblue: #2d3d92;
+  --color-red: #fe0a0a;
+  --color-darkslategray: #444;
+
+  
+}
+
+
+.menu {
+    position: absolute;
+    margin-left: 20px;
+    justify-content: center;
+    text-align: left;
+    margin-top: 200px;
+    font-family: 'Inter';
+
+}
+
+
+
+
+.account {
+    margin-left: 40px;
+    width: 344px;
+    font-size: 43px;
+    margin-top: -160px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: var(--font-inter);
+    
+    
+}
+
+
+
+.edit {
+    margin-left: 40px;
+    width: 344px;
+    font-size: 35px;
+    margin-top: 50px;
+    cursor: pointer;
+    font-family: var(--font-inter);
+}
+
+.info {
+    margin-left: 40px;
+    width: 344px;
+    font-size: 35px;
+    margin-top: 50px;
+    cursor: pointer;
+    font-family: var(--font-inter);
+    
+}
+
+.history {
+    margin-left: 40px;
+    width: 344px;
+    font-size: 35px;
+    margin-top: 50px;
+    cursor: pointer;
+    font-family: var(--font-inter);
+   
+}
+
+.delete {
+    margin-left: 40px;
+    width: 344px;
+    font-size: 35px;
+    margin-top: 50px;
+    cursor: pointer;
+    font-family: var(--font-inter);
+}
+
+.sign-out-icons li{
+    display: flex;
+    margin-left: 90px;
+    width: 344px;
+    font-size: 40px;
+    margin-top: 115px;
+    font-size: 65px;
+    cursor: pointer;
+    
+    
+}
+
+.sign-out {
+   margin-left: 80px; 
+   color: red;
+   font-size: 25px;
+   cursor: pointer;
+   font-family: var(--font-inter);
+}
+
+
+
+
+
+
+
+
+
+
